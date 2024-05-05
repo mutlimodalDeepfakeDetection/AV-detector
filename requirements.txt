@@ -1,0 +1,14 @@
+opencv-python
+dlib
+tensorflow
+keras
+librosa
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+moviepy
+Pillow
+scikit-learn
+fer
